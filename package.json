@@ -1,0 +1,11 @@
+{
+  "name": "ai-crypto-trading-os",
+  "version": "1.0.0",
+  "description": "Institutional-grade AI crypto trading operating system",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start",
+    "dev": "cd frontend && npm run dev"
+  }
+}
